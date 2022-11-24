@@ -3,9 +3,9 @@
 This is week 2 of my learning progress, I've created some basic algorithms and calculated their time complexities
 
 ## Algorithms
-- ![Simple Search](https://github.com/CodeNinja-tech/python-algorithms-v2#simple-search)
-- ![Binary Search with sorting option (uses quicksort)](https://github.com/CodeNinja-tech/python-algorithms-v2#binary-search)
-- ![Quick Sort](https://github.com/CodeNinja-tech/python-algorithms-v2#quick-sort)
+- [Simple Search](#simple-search)
+- [Binary Search with sorting option (uses quicksort)](https://github.com/CodeNinja-tech/python-algorithms-v2#binary-search)
+- [Quick Sort](https://github.com/CodeNinja-tech/python-algorithms-v2#quick-sort)
 
 ## Downloading the files
 You could download the entire source code by clicking the green button, or alternatively in your terminal:
