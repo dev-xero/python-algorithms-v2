@@ -34,7 +34,7 @@ it will run a **billion operations!** (and that is not very efficient)
 <br>
 
 ## Binary Search
-Binary search is very fast, at least way faster than simple search as you will soon see. The way it works is by reducing the size of the array by 2 at each iteration.  
+Binary search is very fast, at least way faster than simple search as you will soon see. The way it works is by reducing the size of the array by half at each iteration.  
 Again, let's use the same array as last time,
 ```python
 a = [1, 2, 3, 4, 5]
